@@ -7,7 +7,7 @@ export default function ParentComponent() {
   return (
     <div className="ParentComponent">
       <button onClick={() => setCount(count + 1)}>+</button>
-      <ChildComponent props={count} />
+      <ChildComponent count={count} />
     </div>
   );
 }

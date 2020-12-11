@@ -6,9 +6,8 @@ export default function App() {
   return (
     <div className="App">
       <p>
-        Demonstrates <code>useState()</code> hook and deep value update in state
+        Demonstrates <code>useState()</code> hook update in state
       </p>
-
       <ParentComponent />
     </div>
   );
