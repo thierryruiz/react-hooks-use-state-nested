@@ -1,2 +1,2 @@
-# react-hooks-use-state-nested
+# react-hooks-use-state
 Created with CodeSandbox
